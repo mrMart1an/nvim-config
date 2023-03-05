@@ -3,6 +3,9 @@ return {
   'tpope/vim-fugitive',
   'tpope/vim-rhubarb',
 
+  -- CSS color previewer
+  'brenoprata10/nvim-highlight-colors',
+
   -- Useful plugin to show you pending keybinds.
   { 'folke/which-key.nvim', opts = {} },
 
